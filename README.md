@@ -22,9 +22,6 @@
 > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-## `CHANGE SESSION`
-
-[`Click Here`](https://github.com/zeeoneofc/Alphab0t12/blob/master/session.json#L1)
 
 ## `SETTING`
 
@@ -64,14 +61,11 @@ Off in web nya
 - [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/5GVckyy/Alphab0t14.1-14-Recode-from-ZEEONE-OFC) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/5GVckyy/WhatsAppProject) 
 <br>
 
 
 ## `THANKS TO`
 
-- Allah SWT.
-- My parents
-- All Friends
 - All Contributors
 - All Creator Bot
