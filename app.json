@@ -1,7 +1,13 @@
+
 {
   "name": "WhatsAppProject",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/5GVckyy/WhatsAppProject",
   "logo": "https://telegra.ph/file/f2bd807ba0793444fbe09.jpg",
   "keywords": ["nodejs", "whatsAppproject", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [{
+    "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+  }, {
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  }]
 }
